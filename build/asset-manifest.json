@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e06ba2f.css",
+    "main.js": "/static/js/main.66f02f94.js",
+    "static/media/profile.jpeg": "/static/media/profile.db92141db8c70e287382.jpeg",
+    "static/media/logo.png": "/static/media/logo.7c814a41605797ab5f43.png",
+    "static/media/oh_snap_404.jpg": "/static/media/oh_snap_404.0d2ffdea9474c8bf24c9.jpg",
+    "static/media/oh_snap.jpg": "/static/media/oh_snap.bf11975c72243db32eb0.jpg",
+    "static/media/github.svg": "/static/media/github.033300a8a526f2c5fb71d5499d034326.svg",
+    "static/media/twitter.svg": "/static/media/twitter.a60ddfa323678b310c6060c279eac9e3.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.2b280c71edc7ce6e171c5023eb86e43a.svg",
+    "index.html": "/index.html",
+    "static/media/star.svg": "/static/media/star.681f0a02ceb3f291e15097b7ddbe8251.svg",
+    "static/media/work.svg": "/static/media/work.ecd66392effb5bf5d79dcbffd236babd.svg",
+    "static/media/school.svg": "/static/media/school.82d931e68bd81613a8fe4b533a246e3e.svg",
+    "static/media/resume.svg": "/static/media/resume.d3cc10343a59db660548b3700671da0b.svg",
+    "static/media/mail.svg": "/static/media/mail.5bedffa5dc284252af97944bc7074354.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.d95d5283fdf8482ce6c651c72f930d36.svg",
+    "main.7e06ba2f.css.map": "/static/css/main.7e06ba2f.css.map",
+    "main.66f02f94.js.map": "/static/js/main.66f02f94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e06ba2f.css",
+    "static/js/main.66f02f94.js"
+  ]
+}

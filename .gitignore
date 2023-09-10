@@ -22,7 +22,7 @@ jspm_packages/
 .node_repl_history
 
 # production
-/build
+# /bui
 /dist
 
 # dotenv environment variables file
