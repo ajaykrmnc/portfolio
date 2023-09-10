@@ -6,7 +6,7 @@ export default function About() {
             <div>
                 <h1>{'Hi, I\'m Ajay! 👋'}</h1>
                 <blockquote>
-                    <p>💻 Undergrad at IIT ISM Dhanbad</p>
+                    <p>💻 Mathematics and Computing Undergrad at IIT ISM Dhanbad</p>
                 </blockquote>
                 <p className="about-links-container">
                     <a href="https://twitter.com/Ajayiitism">

@@ -10,6 +10,12 @@
     transition: transform 0.5s ease;
     
   }
+  .blog_card_box {
+    border-radius: 5px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+  }
   .card_box:hover{
     transform: scale(1.01);
     transition: transform 0.5s ease;
@@ -18,6 +24,10 @@
   .card_top {
     color: black;
     margin-top: 0px;
+  }
+  .blog_top{
+    display: inline-block;
+    
   }
   .card-img::after{
     content: "";
@@ -29,9 +39,14 @@
   }
   .card-img{
      height: 100%;
-     width: 15rem;
+     width: 12rem;
      border-radius: 5px;
   }
+  .blog-card-img{
+    height: 80%;
+    width: 10rem;
+    border-radius: 5px;
+ }
   
   .github,
   .Link {
@@ -51,6 +66,31 @@
     text-align: center;
     text-decoration: none;
     transition: background-color 0.3s ease;
+  }
+  .button-notion {
+    display: inline;
+    /* background-color: black; */
+    color: #fff;
+    padding: 3px 3px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  .button-notion-img{
+    /* height: 100%; */
+     width: 2rem;
+     text-align: center;
+     border-radius: 5px;
+  }
+  .button-notion img{
+    /* height: 100%; */
+     width: 2rem;
+     text-align: center;
+     border-radius: 5px;
   }
   
   .button:active {

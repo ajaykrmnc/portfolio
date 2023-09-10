@@ -5,72 +5,33 @@ export default function Project() {
   const githubProject = [
     {
       id: 0,
-      Name: "Urban Reach Intern Project",
-      github: "http://github.com/ajaykrmnc/ur-bend-fend",
-      Live: "https://urbanreach.netlify.app",
-      img: 'urbanreach.png',
-      intro: ""
+      Name: "6th sem resources",
+      Live: "https://ajaykrmnc.notion.site/91e1d2bc1f4543fd8419105463cce91d?v=1f08156482714d9e989fb8cef3f341c4&pvs=4",
+      intro: "This notion web-page contain all the files and resources that I have gone through during 6th sem at college ",
+      date: "25 Feb 2023"
     },
     {
       id: 3,
-      Name: "Battex",
-      github: 'https://github.com/ajaykrmnc/evexchanz',
-      img: 'battex.jpg',
-      Live: "https://xparkle.netlify.app"
+      Name: "VS CODE Debug Setup",
+      Live: "https://ajaykrmnc.notion.site/VS-CODE-c48df183908e4365b47d2a88aedecfb0?pvs=4",
+      intro: "The important file required to do the debug in C++ in VS CODE"
    },
     {
       id: 1,
-      Name: "My 3D portfolio",
-      github: "http://github.com/ajaykrmnc/",
-      Live: "https://ajaykrgupta.netlify.app",
-      img: 'ajaykrgupta.png',
-      intro: ''
+      Live: "https://ajaykrmnc.notion.site/Multisource-BFS-0d24a937ae7a4c6d8c31b22b4f57e828?pvs=4",
+      Name: "Multisource BFS",
+      intro: 'This is a neat little trick to optimize your code and reach peak performance'
     },
-    {
-      id: 2,
-      Name: "Recursive Tree",
-      Live: "https://visionmap.netlify.app",
-      github: 'http://github.com/ajaykrmnc/',
-      img: 'visionmap.png',
-      intro:''
-    },
-    {
-      id: 6,
-      Name: 'Memories',
-      github: 'http://github.com/ajaykrmnc/',
-      Live: 'https://we-amigos.netlify.app',
-      img: 'Memories.jpg',
-      intro : ''
-    },
-    {
-      id: 7,
-      Name: "Tindog",
-      github:'https://github.com/ajaykrmnc/tindog',
-      Live: 'https://ajaykrmnc.github.io/tindog/',
-      img: 'tindog.png',
-      intro : ''
-    },
-    {
-      id: 4,
-      Name: "Tata Suceess",
-      github: 'http://github.com/ajaykrmnc/',
-      Live: 'https://tata-success.netlify.app',
-      img: 'tata-success.png',
-      intro : '',
-    },
-    {
-      id: 8,
-      Name: "EcoPoolCabs",
-      github:'',
-      Live: '',
-      img: 'ecopool.png',
-    },
+    
 
     
   ];
   return (
     <div className = "about-wrapper">
-    <div><h1>Blog</h1></div>
+    <div style = {{display: 'inline-flex',alignItems: 'center'}}>
+      <h1 style = {{color: '#001040'}}>Blog &nbsp;</h1>
+      <img src = "Notion_app_logo.png" style = {{width: '3rem'}}/>
+    </div>
     <div className = "ProjectBox">
       {githubProject.map((item) => (
         <div className = "">
