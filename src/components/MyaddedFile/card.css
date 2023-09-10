@@ -1,0 +1,61 @@
+/* card.css */
+
+.card_box {
+    background-color: #aaa;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.5s ease;
+    
+  }
+  .card_box:hover{
+    transform: scale(1.01);
+    transition: transform 0.5s ease;
+    box-shadow: 0 10px 10px rgba(54, 48, 48, 0.1);
+  }
+  .card_top {
+    color: black;
+    margin-top: 0px;
+  }
+  .card-img::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    pointer-events: none;
+  }
+  .card-img{
+     height: 100%;
+     width: 15rem;
+     border-radius: 5px;
+  }
+  
+  .github,
+  .Link {
+    margin-bottom: 5px;
+  }
+
+
+.button {
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:active {
+    background-color: #003c80;
+  }
+  
+  
+  
