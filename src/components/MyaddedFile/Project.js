@@ -6,6 +6,14 @@ import Card from "./ProjectCard";
 export default function Project() {
   const githubProject = [
     {
+      id: -1,
+      Name: "Myntra Codeathon'23",
+      github: "http://github.com/ajaykrmnc/HackElite",
+      Live: "https://myntraverse.netlify.app",
+      img: 'myntra.png',
+      intro: "Our team secured 1'st runner up in Myntra Codeathon"
+    },
+    {
       id: 0,
       Name: "Urban Reach Intern Project",
       github: "http://github.com/ajaykrmnc/ur-bend-fend",
