@@ -22,6 +22,13 @@ export default function Project() {
       Name: "Multisource BFS",
       intro: 'This is a neat little trick to optimize your code and reach peak performance'
     },
+    {
+      id: 6,
+      Live: "https://bit.ly/ajaydsa",
+      Name: "DSA Notes",
+      intro: 'DSA notes for Placement Preparation'
+    },
+    
     
 
     
