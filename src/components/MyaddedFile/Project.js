@@ -11,7 +11,6 @@ export default function Project() {
       github: "http://github.com/ajaykrmnc/HackElite",
       Live: "https://myntraverse.netlify.app",
       img: 'myntra.png',
-      intro: "Our team secured 1'st runner up in Myntra Codeathon"
     },
     {
       id: 0,
