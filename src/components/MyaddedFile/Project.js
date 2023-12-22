@@ -27,6 +27,13 @@ export default function Project() {
       img: 'battex.jpg',
       Live: "https://xparkle.netlify.app"
    },
+   {
+    id: 8,
+    Name: "EcoPoolCabs",
+    github:'',
+    Live: 'https://ecopool.netlify.app',
+    img: 'ecopool.png',
+  },
     {
       id: 1,
       Name: "My 3D portfolio",
@@ -36,20 +43,20 @@ export default function Project() {
       intro: ''
     },
     {
-      id: 2,
-      Name: "Recursive Tree",
-      Live: "https://visionmap.netlify.app",
-      github: 'http://github.com/ajaykrmnc/',
-      img: 'visionmap.png',
-      intro:''
-    },
-    {
       id: 6,
       Name: 'Memories',
       github: 'http://github.com/ajaykrmnc/',
       Live: 'https://we-amigos.netlify.app',
       img: 'Memories.jpg',
       intro : ''
+    },
+    {
+      id: 2,
+      Name: "Recursive Tree",
+      Live: "https://visionmap.netlify.app",
+      github: 'http://github.com/ajaykrmnc/',
+      img: 'visionmap.png',
+      intro:''
     },
     {
       id: 7,
@@ -66,13 +73,6 @@ export default function Project() {
       Live: 'https://tata-success.netlify.app',
       img: 'tata-success.png',
       intro : '',
-    },
-    {
-      id: 8,
-      Name: "EcoPoolCabs",
-      github:'',
-      Live: '',
-      img: 'ecopool.png',
     },
 
     

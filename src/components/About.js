@@ -96,7 +96,7 @@ export default function About() {
                     <tr>
                         <td>Codeforces</td>
                         <td>Specailist</td>
-                        <td><a href="https://www.codeforces.com/profile/ajay_mnc">ajay_mnc</a></td>
+                        <td><a href="https://codeforces.com/profile/ajay_mnc">ajay_mnc</a></td>
                     </tr>
                     <tr>
                         <td>GeeksforGeeks</td>

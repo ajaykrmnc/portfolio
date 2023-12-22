@@ -5,9 +5,9 @@ export default function Project() {
   const githubProject = [
     {
       id: 1,
-      Live: "https://ajaykrmnc.notion.site/Multisource-BFS-0d24a937ae7a4c6d8c31b22b4f57e828?pvs=4",
-      Name: "Multisource BFS",
-      intro: 'This is a neat little trick to optimize your code and reach peak performance'
+      Live: "https://ajaykrmnc.notion.site/534ff5bbb3554f29802630c7bd71d280?v=c91aeeeac9ff4010a3fe35881cd8f57a&pvs=4",
+      Name: "Interview Questions",
+      intro: 'Some resources for Interview Preparation'
     },
     {
       id: 6,
@@ -16,11 +16,18 @@ export default function Project() {
       intro: 'DSA notes for Placement Preparation'
     },
     {
-      id: 7,
-      Live: "https://ajaykrmnc.notion.site/Segment-Tree-1f2ea3cfa67c497c8c7213060394ec32?pvs=4",
-      Name: "Segment tree templates",
-      intro: 'Segment tree templates for CP and Interview Preparation'
+      id: 8,
+      Live: "https://ajaykrmnc.notion.site/Competitive-Programming-3ce72de9f73e414c933903246f0244bc?pvs=4",
+      Name: "CP Notes",
+      intro: 'Some resources for CP Preparation'
     },
+    {
+      id: 9,
+      Live: "https://ajaykrmnc.notion.site/History-4dc73dc797d94be3b86d6060a688aa22?pvs=4",
+      Name: "Some Archive Notes",
+      intro: 'Archive Notes'
+    },
+
     
     
 
